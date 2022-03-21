@@ -224,7 +224,9 @@
     </div>
   {%- endif -%}
 
-  <div class="footer__content-bottom">
+{% comment %} Lo deshabilite porque estaba la seccion del copyright {% endcomment %}
+
+  {% comment %} <div class="footer__content-bottom">
     <div class="footer__content-bottom-wrapper page-width">
       <div class="footer__column footer__localization isolate">
         {%- if section.settings.enable_country_selector and localization.available_countries.size > 1 -%}
@@ -328,14 +330,14 @@
               {%- endfor -%}
             </ul>
           </div>
-        {%- endif -%}
-        <div class="footer__copyright caption">
+        {%- endif -%} {% endcomment %}
+        {% comment %} <div class="footer__copyright caption">
           <small class="copyright__content">&copy; {{ 'now' | date: "%Y" }}, {{ shop.name | link_to: routes.root_url }}</small>
           <small class="copyright__content">{{ powered_by_link }}</small>
-        </div>
-      </div>
-    </div>
-  </div>
+        </div> {% endcomment %}
+      {% comment %} </div> {% endcomment %}
+    {% comment %} </div> {% endcomment %}
+  {% comment %} </div> {% endcomment %}
 </footer>
 
 {% javascript %}
