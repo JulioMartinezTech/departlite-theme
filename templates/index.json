@@ -120,6 +120,9 @@
   "order": [
     "16484375998478fe14",
     "rich_text",
-    "featured_collection"
+    "featured_collection",
+    "collage",
+    "video",
+    "multicolumn"
   ]
 }
