@@ -68,11 +68,20 @@
           "settings": {
             "text": "<p>Depart Lite enables travelers to avoid airline baggage fees and airport line hassles freeing them up to care for their families.<\/p>"
           }
+        },
+        "95428c4e-41c7-4af4-b4fd-d58bf9b30b33": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "95428c4e-41c7-4af4-b4fd-d58bf9b30b33"
       ],
       "settings": {
         "color_scheme": "background-1",
