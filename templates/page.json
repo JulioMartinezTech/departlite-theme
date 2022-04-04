@@ -24,23 +24,11 @@
             "text": "Planning and packing for family vacations just got easier. Depart Lite is an online retail resource offering brand-name baby products and specialty travel items for delivery directly to your Dominican Republic destination.",
             "text_style": "body"
           }
-        },
-        "164903471642dcafdd-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "164903471642dcafdd-0",
-        "164903471642dcafdd-1",
-        "164903471642dcafdd-2"
+        "164903471642dcafdd-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/family-travel-bag-packed-to-vacation-2021-09-01-11-29-53-utc.png",
@@ -49,7 +37,7 @@
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "right",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -59,36 +47,16 @@
     "164903503272d875e7": {
       "type": "image-banner",
       "blocks": {
-        "16490350326a80f78c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
         "16490350326a80f78c-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "At a time when airlines are charging for checked luggage and carry-on restrictions are tightening, Depart Lite enables travelers to avoid airline baggage fees and airport line hassles freeing them up to care for their families.",
             "text_style": "body"
-          }
-        },
-        "16490350326a80f78c-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "16490350326a80f78c-0",
-        "16490350326a80f78c-1",
-        "16490350326a80f78c-2"
+        "16490350326a80f78c-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pink-gray-black-color-luggage-or-baggage-bag-use-f-2021-08-27-18-49-50-utc.png",
