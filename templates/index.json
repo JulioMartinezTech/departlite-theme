@@ -90,10 +90,38 @@
         "padding_bottom": 0
       }
     },
+    "1649036543309cb3df": {
+      "type": "rich-text",
+      "blocks": {
+        "1649036543208868eb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>NEW ARRIVAL<\/p>"
+          }
+        },
+        "1649036543208868eb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "New Products",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1649036543208868eb-1",
+        "1649036543208868eb-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -115,11 +143,61 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
+    },
+    "164903655593af135d": {
+      "type": "image-banner",
+      "blocks": {
+        "1649036555399aeeae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A little more about us",
+            "heading_size": "h1"
+          }
+        },
+        "1649036555399aeeae-1": {
+          "type": "text",
+          "settings": {
+            "text": "Planning and packing for family vacations just got easier.",
+            "text_style": "body"
+          }
+        },
+        "1649036555399aeeae-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Contact Us",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1649036555399aeeae-0",
+        "1649036555399aeeae-1",
+        "1649036555399aeeae-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BEBE_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "16484375998478fe14",
     "rich_text",
-    "featured_collection"
+    "1649036543309cb3df",
+    "featured_collection",
+    "164903655593af135d"
   ]
 }
