@@ -1,11 +1,3 @@
-/* Font custom */
-
-@font-face {
-  font-family: "Galano";
-  src: url("galano-grotesque-extrabold-webfont.woff") format("woff");
-}
-
-
 /* Color custom properties */
 
 :root,
@@ -2904,3 +2896,14 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+  
+  /* Font custom */
+
+@font-face {
+  font-family: "Galano";
+  src: url("galano-grotesque-extrabold-webfont.woff") format("woff");
+}
+  
+  body{
+    font-family: "Galano" !important;
+  }
