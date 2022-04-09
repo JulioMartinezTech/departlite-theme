@@ -2904,6 +2904,6 @@ details-disclosure > details {
   src: url("galano-grotesque-extrabold-webfont.woff") format("woff");
 }
   
-  body{
+  *{
     font-family: "Galano" !important;
   }
