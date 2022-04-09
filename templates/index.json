@@ -179,12 +179,12 @@
         "1649036555399aeeae-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BEBE_2.png",
+        "image": "shopify:\/\/shop_images\/BEBE_2_68860897-b8d2-49c5-bd96-eecff0377bc1.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-right",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
