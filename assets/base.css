@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "Galano";
-  src: url({{ [galano-grotesque-extrabold-webfont] | asset_url }}) format("[woff]");
+  src: url("galano-grotesque-extrabold-webfont.woff") format("woff");
 }
 
 
