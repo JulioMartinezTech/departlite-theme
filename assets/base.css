@@ -2603,8 +2603,8 @@ details[open] > .header__submenu {
   padding: 1.2rem;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
-  font-family: "Galano" !important;
   font-weight: 800;
+  font-family: "Galano" !important;
   margin: 7px;
 }
 
@@ -2910,7 +2910,4 @@ details-disclosure > details {
   src: url("LiberGrotesqueFamily-Regular.woff") format("woff");
 }
   
-  
-  *{
-    font-family: "Liber";
-  }
+
