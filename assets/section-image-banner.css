@@ -402,6 +402,7 @@
 .banner__heading {
   margin-bottom: 0;
   font-size: 50px;
+  color: rgb(var(--color-base-accent-2));;
 }
 
 .banner__box .banner__heading + * {
