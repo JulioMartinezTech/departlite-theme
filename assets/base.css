@@ -2318,6 +2318,7 @@ input[type='checkbox'] {
   height: 45px;
   width: 126px;
   background-color: #00AEEF;
+  font-family: var(--font-heading-family);
   color: white;
   border-radius: 5px;
   display: flex;
