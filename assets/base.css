@@ -2605,7 +2605,6 @@ details[open] > .header__submenu {
   color: rgba(var(--color-foreground), 1);
   font-family: var(--font-heading-family);
   font-weight: 800;
-  font-size: 21px;
   margin: 7px;
 }
 
