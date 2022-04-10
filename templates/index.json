@@ -139,27 +139,27 @@
         "padding_bottom": 36
       }
     },
-    "164903655593af135d": {
+    "1649551569959bc82d": {
       "type": "image-banner",
       "blocks": {
-        "1649036555399aeeae-0": {
+        "164955156868476c80-0": {
           "type": "heading",
           "settings": {
             "heading": "A little more about us",
             "heading_size": "h1"
           }
         },
-        "1649036555399aeeae-1": {
+        "164955156868476c80-1": {
           "type": "text",
           "settings": {
             "text": "Planning and packing for family vacations just got easier.",
             "text_style": "body"
           }
         },
-        "1649036555399aeeae-2": {
+        "164955156868476c80-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Us",
+            "button_label_1": "Button label",
             "button_link_1": "",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -169,9 +169,9 @@
         }
       },
       "block_order": [
-        "1649036555399aeeae-0",
-        "1649036555399aeeae-1",
-        "1649036555399aeeae-2"
+        "164955156868476c80-0",
+        "164955156868476c80-1",
+        "164955156868476c80-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/BEBE_2_68860897-b8d2-49c5-bd96-eecff0377bc1.png",
@@ -179,7 +179,7 @@
         "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-right",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
@@ -193,6 +193,6 @@
     "rich_text",
     "1649036543309cb3df",
     "featured_collection",
-    "164903655593af135d"
+    "1649551569959bc82d"
   ]
 }
