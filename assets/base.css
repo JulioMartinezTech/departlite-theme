@@ -2904,6 +2904,12 @@ details-disclosure > details {
   src: url("galano-grotesque-extrabold-webfont.woff") format("woff");
 }
   
+@font-face {
+  font-family: "Liber";
+  src: url("LiberGrotesqueFamily-Regular.woff") format("woff");
+}
+  
+  
   *{
-    font-family: "Galano" !important;
+    font-family: "Liber" !important;
   }
