@@ -12,7 +12,7 @@
 @media only screen and (max-width: 749px) {
   .banner--content-align-mobile-right .banner__box {
     text-align: right;
-    width: 150px
+    width: 150px;
   }
 
   .banner--content-align-mobile-left .banner__box {
@@ -23,11 +23,12 @@
 @media only screen and (min-width: 750px) {
   .banner--content-align-right .banner__box {
     text-align: right;
-    width: 150px
+    width: 150px;
   }
 
   .banner--content-align-left .banner__box {
     text-align: left;
+    width: 150px;
   }
 
   .banner--content-align-left.banner--desktop-transparent .banner__box,
