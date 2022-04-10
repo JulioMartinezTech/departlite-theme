@@ -14,7 +14,8 @@
           "type": "heading",
           "settings": {
             "heading": "For every step Of your baby Development",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_color": "header-light-blue"
           }
         },
         "16495513124d5c5f04-2": {
@@ -40,7 +41,6 @@
         "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-left",
-        "header_color": "header-black",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
@@ -147,7 +147,8 @@
           "type": "heading",
           "settings": {
             "heading": "A little more about us",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_color": "header-dark-blue"
           }
         },
         "164955156868476c80-1": {
@@ -180,7 +181,6 @@
         "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-right",
-        "header_color": "header-dark-blue",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
