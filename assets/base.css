@@ -2917,4 +2917,14 @@ details-disclosure > details {
   --font-heading-family: "Galano";
 }
   
+/* custom header text color */
+.header-dark-blue {
+  color: rgb(var(--color-base-accent-1));
+}
+.header-light-blue {
+  color: rgb(var(--color-base-accent-2));
+}
+.header-black {
+  color: rgb(var(--color-foreground));
+}
 
