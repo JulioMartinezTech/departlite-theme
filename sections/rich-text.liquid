@@ -24,7 +24,7 @@
       {%- for block in section.blocks -%}
         {%- case block.type -%}
           {%- when 'heading' -%}
-            <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
+            <h2 class="{{ block.settings.heading_size }} {{ block.settings.heading_color }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
           {%- when 'text' -%}
             <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
           {%- when 'button' -%}
@@ -133,7 +133,27 @@
           ],
           "default": "h1",
           "label": "t:sections.all.heading_size.label"
-        }
+        },
+{
+	 "type": "select",
+	 "id": "heading_color",
+	 "options": [
+		{
+		  "value":"header-light-blue",
+		  "label": "Text light Blue"
+		},
+		{
+		  "value":"header-black",
+		  "label":"Text Black"
+	    },
+		{
+		  "value":"header-dark-blue",
+		  "label":"Text Dark Blue"
+		}
+	 ],
+	 "default": "header-black",
+	 "label": "Heading color"
+	}
       ]
     },
     {
