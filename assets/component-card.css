@@ -60,6 +60,7 @@
   bottom: 0;
   position: absolute;
   top: 0;
+  border-radius: 15px 15px 0 0;
 }
 
 .card .media {
