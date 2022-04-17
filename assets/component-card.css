@@ -136,6 +136,7 @@
 
 .card__heading {
   margin-top: 0;
+  color: rgb(var(--color-foreground));
 }
 
 .card__heading:last-child {
