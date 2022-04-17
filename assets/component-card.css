@@ -9,7 +9,7 @@
   text-align: var(--card-text-alignment);
   text-decoration: none;
   border-radius: 20px;
-  box-shadow: 2px 2px 10px;
+  box-shadow: 2px 4px 10px;
 }
 
 .card--card {
