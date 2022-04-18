@@ -390,6 +390,7 @@ noscript .localization-selector.link {
 
 .footer-block__details-content {
   margin-bottom: 4rem;
+  font-size: 2.5rem;
 }
 
 @media screen and (min-width: 750px) {
