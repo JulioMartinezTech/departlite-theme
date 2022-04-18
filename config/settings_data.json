@@ -133,6 +133,14 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "17feb208-2916-4f96-ac0c-e389e5e86276": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/LOGO_EDITABLE-05.png",
+              "image_width": 200,
+              "alignment": "center"
+            }
+          },
           "footer-2": {
             "type": "text",
             "settings": {
@@ -149,6 +157,7 @@
           }
         },
         "block_order": [
+          "17feb208-2916-4f96-ac0c-e389e5e86276",
           "footer-2",
           "footer-1"
         ],
