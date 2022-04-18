@@ -86,6 +86,9 @@
                         height="{{ block.settings.image.height }}"
                         style="max-width: min(100%, {{ block.settings.image_width }}px);"
                       >
+                      <div class="footer-block__details-content rte">
+                    	{{ block.settings.subtextImage }}
+                      </div>
                     {%- else -%}
                       {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
                     {%- endif -%}
@@ -472,6 +475,12 @@
             }
           ],
           "default": "center"
+        },
+		{
+          "type": "richtext",
+          "id": "subtextImage",
+          "default": "<p>Share contact information, store details, and brand content with your customers.</p>",
+          "label": "t:sections.footer.blocks.text.settings.subtext.label"
         }
       ]
     }
