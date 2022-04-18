@@ -138,7 +138,8 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/LOGO_EDITABLE-05.png",
               "image_width": 400,
-              "alignment": "center"
+              "alignment": "",
+              "subtextImage": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
           },
           "footer-1": {
@@ -147,11 +148,19 @@
               "heading": "COMPANY",
               "menu": "footer"
             }
+          },
+          "056b1593-a29e-4693-a2ec-8e9d268fcf9f": {
+            "type": "link_list",
+            "settings": {
+              "heading": "COMMUNITY",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
           "17feb208-2916-4f96-ac0c-e389e5e86276",
-          "footer-1"
+          "footer-1",
+          "056b1593-a29e-4693-a2ec-8e9d268fcf9f"
         ],
         "settings": {
           "color_scheme": "inverse",
