@@ -155,12 +155,20 @@
               "heading": "COMMUNITY",
               "menu": "footer"
             }
+          },
+          "89e266e0-8ed2-4599-bfeb-bcf4f3cb1281": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
           "17feb208-2916-4f96-ac0c-e389e5e86276",
           "footer-1",
-          "056b1593-a29e-4693-a2ec-8e9d268fcf9f"
+          "056b1593-a29e-4693-a2ec-8e9d268fcf9f",
+          "89e266e0-8ed2-4599-bfeb-bcf4f3cb1281"
         ],
         "settings": {
           "color_scheme": "inverse",
