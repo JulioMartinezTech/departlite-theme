@@ -141,13 +141,6 @@
               "alignment": "center"
             }
           },
-          "footer-2": {
-            "type": "text",
-            "settings": {
-              "heading": "Depart Lite",
-              "subtext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry<\/p>"
-            }
-          },
           "footer-1": {
             "type": "link_list",
             "settings": {
@@ -158,7 +151,6 @@
         },
         "block_order": [
           "17feb208-2916-4f96-ac0c-e389e5e86276",
-          "footer-2",
           "footer-1"
         ],
         "settings": {
