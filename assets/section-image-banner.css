@@ -23,7 +23,7 @@
 @media only screen and (min-width: 750px) {
   .banner--content-align-right .banner__box {
     text-align: right;
-    width: 150px;
+    width: 250px;
   }
 
   .banner--content-align-left .banner__box {
