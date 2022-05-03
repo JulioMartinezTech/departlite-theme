@@ -97,6 +97,8 @@
     "predictive_search_show_price": false,
     "favicon": "shopify:\/\/shop_images\/android-chrome-512x512.png",
     "currency_code_enabled": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/LOGO_EDITABLE-02.png",
+    "checkout_logo_position": "left",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
