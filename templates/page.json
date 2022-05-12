@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "heading": "About Our Brand",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_color": "header-black"
           }
         },
         "164903471642dcafdd-1": {
