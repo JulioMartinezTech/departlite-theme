@@ -27,7 +27,7 @@
 
 .color-accent-2 {
   --color-foreground: var(--color-base-solid-button-labels);
-  --color-background: transparent;
+  --color-background: none;
   --gradient-background: var(--gradient-base-accent-2);
 }
 
