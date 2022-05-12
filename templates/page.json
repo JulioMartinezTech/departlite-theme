@@ -16,7 +16,7 @@
           "settings": {
             "heading": "About Our Brand",
             "heading_size": "h1",
-            "heading_color": "header-black"
+            "heading_color": "header-light-blue"
           }
         },
         "164903471642dcafdd-1": {
@@ -67,7 +67,7 @@
         "desktop_content_position": "middle-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
