@@ -28,7 +28,6 @@
 
   .banner--content-align-left .banner__box {
     text-align: left;
-    width: 150px;
   }
 
   .banner--content-align-left.banner--desktop-transparent .banner__box,
@@ -388,7 +387,7 @@
 @media screen and (min-width: 750px) {
   .banner__box {
     width: auto;
-    max-width: 71rem;
+    max-width: 51rem;
     min-width: 45rem;
   }
 }
