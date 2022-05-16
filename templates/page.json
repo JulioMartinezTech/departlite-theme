@@ -63,14 +63,14 @@
         "image": "shopify:\/\/shop_images\/bebe_2x_0b004845-9c1f-4a32-9725-e54f6e6f5f47.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-right",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "accent-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     }
   },
