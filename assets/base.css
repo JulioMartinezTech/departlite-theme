@@ -2200,7 +2200,7 @@ input[type='checkbox'] {
 .header {
   display: grid;
   grid-template-areas: 'left-icon heading icons buttons';
-  grid-template-columns: 2fr 1fr 1fr auto;
+  grid-template-columns: auto 3fr 1fr auto;
   align-items: center;
   padding-top: 1rem;
   padding-bottom: 1rem;
