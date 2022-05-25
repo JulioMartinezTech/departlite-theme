@@ -563,9 +563,9 @@
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__buttons focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
           <div class="header__buttons--account">{%- liquid
               if customer
-                echo 'customer.log_in' | t
-              else
                 echo 'customer.log_out' | t
+              else
+                echo 'customer.log_in' | t
               endif
             -%}</div>
           <span class="visually-hidden">
