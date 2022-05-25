@@ -560,7 +560,7 @@
     </div>
     <div class="header__buttons">
       {%- if shop.customer_accounts_enabled -%}
-        <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__buttons focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
+        <a href="{%- if customer -%}{{ routes.account_logout_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__buttons focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
           <div class="header__buttons--account">{%- liquid
               if customer
                 echo 'customer.log_out' | t
