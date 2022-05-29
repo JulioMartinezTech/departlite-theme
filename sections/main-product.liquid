@@ -270,7 +270,13 @@
                 </button>
               </quantity-input>
             </div>
-        <input type="text" id="codigo-vuelo">
+        <div class="product-form__input">
+          <label class="form__label" for="Codigo-vuelo-{{ section.id }}">
+            {{ 'products.product.arrival_date' | t }}
+          </label>
+          <input type="text" id="Codigo-vuelo-{{ section.id }}">
+        </div>
+        
           {%- when 'popup' -%}
               <modal-opener class="product-popup-modal__opener no-js-hidden" data-modal="#PopupModal-{{ block.id }}" {{ block.shopify_attributes }}>
                 <button id="ProductPopup-{{ block.id }}" class="product-popup-modal__button link" type="button" aria-haspopup="dialog">{{ block.settings.text | default: block.settings.page.title }}</button>
