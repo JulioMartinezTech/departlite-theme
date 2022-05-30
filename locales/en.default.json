@@ -106,7 +106,7 @@
       "description": "Description",
       "on_sale": "Sale",
       "product_variants": "Product variants",
-      "arrival_date": "Arrival date",
+      "arrival_date": "Please let us know your arrival date",
       "media": {
         "gallery_viewer": "Gallery Viewer",
         "load_image": "Load image {{ index }} in gallery view",
