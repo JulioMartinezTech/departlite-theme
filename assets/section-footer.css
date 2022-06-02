@@ -463,6 +463,10 @@ noscript .localization-selector.link {
   height: auto;
 }
 
+.footer-block-image > p {
+  width: 150px;
+}
+
 .footer-block__details-content .placeholder-svg {
   max-width: 20rem;
 }
