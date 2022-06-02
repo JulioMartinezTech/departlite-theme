@@ -463,7 +463,7 @@ noscript .localization-selector.link {
   height: auto;
 }
 
-.footer-block-image > footer-block__details-content > p {
+.footer-block__details-content > p {
   width: 60px !important;
 }
 
