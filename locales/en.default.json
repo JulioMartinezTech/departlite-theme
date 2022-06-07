@@ -107,6 +107,9 @@
       "on_sale": "Sale",
       "product_variants": "Product variants",
       "arrival_date": "Please let us know what is your arrival date",
+      "resort_name": "Resort name",
+      "reservation_number": "Reservation number",
+      "info": "This information is valuable for us in order to deliver your order on time",
       "media": {
         "gallery_viewer": "Gallery Viewer",
         "load_image": "Load image {{ index }} in gallery view",
