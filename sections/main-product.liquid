@@ -271,6 +271,7 @@
               </quantity-input>
             </div>
         <div class="product-form__input">
+          <p>{{ 'products.product.info' | t }}</p>
           <label class="form__label" for="Codigo-vuelo-{{ section.id }}">
             {{ 'products.product.arrival_date' | t }}
           </label>
@@ -283,7 +284,7 @@
             {{ 'products.product.reservation_number' | t }}
           </label>
           <input type="text" id="reservation-number-{{ section.id }}">
-          <p>{{ 'products.product.info' | t }}</p>
+          
         </div>
         
           {%- when 'popup' -%}
