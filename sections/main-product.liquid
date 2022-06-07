@@ -275,6 +275,15 @@
             {{ 'products.product.arrival_date' | t }}
           </label>
           <input type="text" id="Codigo-vuelo-{{ section.id }}">
+          <label class="form__label" for="resort-name-{{ section.id }}">
+            {{ 'products.product.resort_name' | t }}
+          </label>
+          <input type="text" id="resort-name-{{ section.id }}">
+          <label class="form__label" for="reservation-number-{{ section.id }}">
+            {{ 'products.product.reservation_number' | t }}
+          </label>
+          <input type="text" id="reservation-number-{{ section.id }}">
+          <p>{{ 'products.product.info' | t }}</p>
         </div>
         
           {%- when 'popup' -%}
