@@ -420,5 +420,15 @@
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "company_label": "Resort Name or Airbnb"
+      },
+      "thank_you": {
+        "title": "Thank you for your purchase. Your order will be waiting for you at your arrival. Have a nice flight!"
+      }
+    }
   }
 }
