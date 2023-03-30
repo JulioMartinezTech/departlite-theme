@@ -138,13 +138,6 @@
             "heading_color": "header-dark-blue"
           }
         },
-        "164955156868476c80-1": {
-          "type": "text",
-          "settings": {
-            "text": "Planning and packing for family vacations to the Dominican Republic just got easier.",
-            "text_style": "body"
-          }
-        },
         "164955156868476c80-2": {
           "type": "buttons",
           "settings": {
@@ -159,7 +152,6 @@
       },
       "block_order": [
         "164955156868476c80-0",
-        "164955156868476c80-1",
         "164955156868476c80-2"
       ],
       "settings": {
