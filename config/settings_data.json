@@ -140,7 +140,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/LOGO_EDITABLE-06_1.png",
               "image_width": 225,
-              "alignment": "",
+              "alignment": "center",
               "subtextImage": "<p>Planning and packing for family vacations to the Dominican Republic just got easier.<\/p>"
             }
           },
